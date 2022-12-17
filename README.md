@@ -8,6 +8,8 @@
 <h4 align="left"> 💬 Hope that summed up well!</h4>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<img align="center" alt="Coding" src="https://i.postimg.cc/MHZKFkVz/standard.gif">
+
 <h3 align="left">Connect with me:</h3>
 
 
