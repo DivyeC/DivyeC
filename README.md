@@ -3,7 +3,7 @@
 <h4 align="left">-> I have keen interest in Competitive Programming, AI & Front End development.</h4>
 <h4 align="left">-> Currently exploring these domains to find "MY" thing.</h4>
 <h4 align="left">-> PS I'm a workoholic & always listening to music.</h4>
-<h4 align="left">-> As of now I'm having decent hold on python and basic C++ & UI/UX fundamentals... learning more from platforms like Coursra...You may have a look at my LinkedIn to check with the courses. </h4>
+<h4 align="left">-> As of now I'm having decent hold on python and basic C++ & UI/UX fundamentals... learning more from platforms like Coursera...You may have a look at my LinkedIn to check with the courses. </h4>
 
 <h4 align="left"> 💬 Hope that summed up well!</h4>
 
