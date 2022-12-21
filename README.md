@@ -4,7 +4,7 @@
 <h4 align="left">-> Currently exploring these domains to find "MY" thing.</h4>
 <h4 align="left">-> PS I'm a workoholic & always listening to music.</h4>
 <h4 align="left">-> As of now I'm having decent hold on python and basic C++ & UI/UX fundamentals... learning more from platforms like Coursera...You may have a look at my LinkedIn to check with the courses. </h4>
-
+<h4 align="left">-> I might not be the most skilled guy in a group, but I have an eagerness to learn forever.</h4>
 <h4 align="left"> 💬 Hope that summed up well!</h4>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
