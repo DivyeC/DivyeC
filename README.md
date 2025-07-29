@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divye Chandna</h1>
-<h3 align="center">I'm a freshman at BVCOE with a passion for UI/UX</h3>
-<h4 align="left">-> I have keen interest in Competitive Programming, AI & Front End development.</h4>
+<h3 align="center">I'm a student at BVCOE with a passion for UI/UX and Web Dev</h3>
+<h4 align="left">-> I have keen interest in Competitive Programming, AI & Development.</h4>
 <h4 align="left">-> Currently exploring these domains to find "MY" thing.</h4>
 <h4 align="left">-> PS I'm a workoholic & always listening to music.</h4>
-<h4 align="left">-> As of now I'm having decent hold on python and basic C++ & UI/UX fundamentals... learning more from platforms like Coursera...You may have a look at my LinkedIn to check with the courses. </h4>
+<h4 align="left">-> As of now I'm having decent hold on python and basic C++ & professional UI/UX ... learning more from platforms like Coursera...You may have a look at my LinkedIn to check with the courses. </h4>
 <h4 align="left">-> I might not be the most skilled guy in a group, but I have an eagerness to learn forever.</h4>
 <h4 align="left"> 💬 Hope that summed up well!</h4>
 
