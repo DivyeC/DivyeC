@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Divye Chandna</h1>
+<h1 align="center">Hi, I'm Divye Chandna</h1>
 <h3 align="center">I'm a student at BVCOE with a passion for UI/UX and Web Dev</h3>
 <h4 align="left">-> I have keen interest in Competitive Programming, AI & Development.</h4>
 <h4 align="left">-> PS I'm a workoholic & always listening to music.</h4>
 <h4 align="left">-> I'm always tryint to learn, You may have a look at my resume to check with the up to date progress. </h4>
 <h4 align="left">-> I might not be the most skilled guy in a group, but I have an eagerness to learn forever.</h4>
-<h4 align="left"> 💬 Hope that summed up well!</h4>
+<h4 align="left"> Hope that summed up well!</h4>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 <img align="center" alt="Coding" src="https://i.postimg.cc/MHZKFkVz/standard.gif">
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-- 👨‍💻 My linkedIn [https://www.linkedin.com/in/divyechandna/](https://www.linkedin.com/in/divyechandna/)
+-  [linkedIn](https://www.linkedin.com/in/divyechandna/)
 
 <p align="left">
 
