@@ -2,7 +2,7 @@
 <h3 align="center">I'm a student at BVCOE with a passion for UI/UX and Web Dev</h3>
 <h4 align="left">-> I have keen interest in Competitive Programming, AI & Development.</h4>
 <h4 align="left">-> PS I'm a workoholic & always listening to music.</h4>
-<h4 align="left">-> I'm always tryint to learn, You may have a look at my resume to check with the up to date progress. </h4>
+<h4 align="left">-> I'm always trying
 <h4 align="left">-> I might not be the most skilled guy in a group, but I have an eagerness to learn forever.</h4>
 <h4 align="left"> Hope that summed up well!</h4>
 
